@@ -12,7 +12,7 @@ Building scalable web applications with Java, Spring Boot, React, MySQL, and AWS
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE (AI/ML), KL University (CGPA: 8.94)
+- 🎓 B.Tech CSE (AI/ML), KL University
 - ☁️ AWS Certified Cloud Practitioner
 - 🏆 Certificate of Excellence – Scaler School of Technology (YIIC 2.0)
 - 💻 Full Stack Developer focused on React + Spring Boot
