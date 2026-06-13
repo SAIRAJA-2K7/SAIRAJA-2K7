@@ -1,33 +1,119 @@
-# Hi 👋, I'm SAIRAJA KRISHNA
+<h1 align="center">Hi 👋, I'm Sairaja Krishna</h1>
 
-### AWS CCP | React, Spring Boot, MySQL | Aspiring Full Stack Developer | CSE’honours @ KL University
+<h3 align="center">
+Full Stack Developer • AWS Cloud Practitioner • B.Tech CSE (AI/ML) @ KL University
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username= SAIRAJA-2K7&label=Profile views&color=0e75b6&style=flat" alt=" SAIRAJA-2K7" /> </p>
-
-- 🔭 I'm currently working on **https://www.linkedin.com/pulse/urban-tech-dashboard-simplifying-city-management-all-sairaja-krishna-ofgmc/**
-
-- 🌱 I'm currently learning ** React, JSP, Spring Boot, MySQL, MongoDB**
-
-- ⚡ Fun fact **My projects span three very different worlds—IoT hardware, full-stack web development, and AI/ML—which means I enjoy building both software and the systems that power it.**
-
-- 👨‍💻 All of my projects are available at **[https://portfolio-srk07.netlify.app/](https://portfolio-srk07.netlify.app/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1BHMd9paemVaVuRtJwCpbUa-jOZGG1qOb/view](https://drive.google.com/file/d/1BHMd9paemVaVuRtJwCpbUa-jOZGG1qOb/view)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/ SAIRAJA-2K7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt=" SAIRAJA-2K7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sairajakrishna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sairajakrishna/" height="30" width="40" /></a>
-<a href="https://codechef.com/users/https://www.codechef.com/users/kl2400031695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="https://www.codechef.com/users/kl2400031695" height="30" width="40" /></a>
+<p align="center">
+Building scalable web applications with Java, Spring Boot, React, MySQL, and AWS.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username= SAIRAJA-2K7&show_icons=true&locale=en&layout=compact" alt=" SAIRAJA-2K7" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username= SAIRAJA-2K7&show_icons=true&locale=en" alt=" SAIRAJA-2K7" /></p>
+- 🎓 B.Tech CSE (AI/ML), KL University (CGPA: 8.94)
+- ☁️ AWS Certified Cloud Practitioner
+- 🏆 Certificate of Excellence – Scaler School of Technology (YIIC 2.0)
+- 💻 Full Stack Developer focused on React + Spring Boot
+- 🧩 Solved 250+ Coding Problems on CodeChef
+- 🌱 Currently learning Advanced Spring Boot, MongoDB, and Cloud Architecture
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user= SAIRAJA-2K7&" alt=" SAIRAJA-2K7" /></p>
+---
 
+## 🔭 Currently Working On
 
+- Smart City & Urban-Tech Solutions
+- Full Stack Web Applications
+- Cloud Deployment Workflows
+- Backend System Design
+
+---
+
+## 💡 Featured Projects
+
+### 🏙️ Urban-Tech Dashboard
+A smart city dashboard built using React, Spring Boot, and MySQL for monitoring city services and utilities.
+
+### ⚡ Smart Energy Meter
+ESP32-based energy monitoring system for hostels with real-time usage tracking and billing insights.
+
+### 🤝 Citizen–Politician Interaction Platform
+A full-stack civic engagement platform enabling issue reporting and transparent communication.
+
+### 🤖 IR Rover Bot Navigator
+Arduino-powered autonomous obstacle-avoiding rover using sensor-driven navigation.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,c,python" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman,figma" />
+</p>
+
+### IoT
+<p>
+<img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SAIRAJA-2K7&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIRAJA-2K7&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/SAIRAJA-2K7">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+
+<a href="https://linkedin.com/in/sairajakrishna">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+</p>
+
+📧 Email: 2400031695cse2@gmail.com
+
+🌍 Portfolio: https://portfolio-srk07.netlify.app/
+
+🏅 CodeChef: https://www.codechef.com/users/kl2400031695
+
+📄 Resume: https://drive.google.com/file/d/1BHMd9paemVaVuRtJwCpbUa-jOZGG1qOb/view
+
+---
+
+## ⚡ Fun Fact
+
+My projects span three different worlds—IoT hardware, full-stack web development, and AI/ML—which means I enjoy building both software and the systems that power it.
