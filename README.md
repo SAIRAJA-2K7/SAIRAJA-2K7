@@ -35,9 +35,6 @@ Building scalable web applications with Java, Spring Boot, React, MySQL, and AWS
 ### 🏙️ Urban-Tech Dashboard
 A smart city dashboard built using React, Spring Boot, and MySQL for monitoring city services and utilities.
 
-### ⚡ Smart Energy Meter
-ESP32-based energy monitoring system for hostels with real-time usage tracking and billing insights.
-
 ### 🤝 Citizen–Politician Interaction Platform
 A full-stack civic engagement platform enabling issue reporting and transparent communication.
 
