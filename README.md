@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sairaja Krishna</h1>
 
 <h3 align="center">
-Full Stack Developer • AWS Cloud Practitioner • B.Tech CSE (AI/ML) @ KL University
+Full Stack • AWS Cloud Practitioner • B.Tech CSE (AI/ML) @ KL University
 </h3>
 
 <p align="center">
