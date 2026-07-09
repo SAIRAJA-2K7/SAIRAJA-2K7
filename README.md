@@ -80,13 +80,12 @@ Arduino-powered autonomous obstacle-avoiding rover using sensor-driven navigatio
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SAIRAJA-2K7&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SAIRAJA-2K7&show_icons=true&theme=transparent" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIRAJA-2K7&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SAIRAJA-2K7&layout=compact&theme=transparent" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
