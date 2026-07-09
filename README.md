@@ -121,7 +121,7 @@ Arduino-powered autonomous obstacle-avoiding rover using sensor-driven navigatio
 
 🏅 CodeChef: https://www.codechef.com/users/kl2400031695
 
-📄 Resume: https://drive.google.com/file/d/1BHMd9paemVaVuRtJwCpbUa-jOZGG1qOb/view
+📄 Resume: https://drive.google.com/file/d/1lxPXZS8907YchuIAOTUn0nKGe86306Qg/view
 
 ---
 
