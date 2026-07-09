@@ -117,7 +117,7 @@ Arduino-powered autonomous obstacle-avoiding rover using sensor-driven navigatio
 
 📧 Email: 2400031695cse2@gmail.com
 
-🌍 Portfolio: https://portfolio-srk07.netlify.app/
+🌍 Portfolio: https://sairajakrishna.netlify.app/
 
 🏅 CodeChef: https://www.codechef.com/users/kl2400031695
 
