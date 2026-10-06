@@ -31,7 +31,6 @@
 
 <div align="center">
 
-<img src="./contrib-ripple-slow.gif" width="100%"/>
 
 </div>
 
