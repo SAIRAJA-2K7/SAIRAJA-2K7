@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./contrib-heatmap.gif" width="100%"/>
+<img src="./contrib-ripple-slow.gif" width="100%"/>
 
 </div>
 
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="./contrib-heatmap.svg" width="100%"/>
+<img src="./contrib-ripple-slow.gif" width="100%"/>
 
 </div>
 
@@ -183,6 +183,7 @@ EXPERIENCE
 <strong>BUILD • BREAK • DEBUG • SHIP • REPEAT</strong>
 
 </div>
+
 
 
 
