@@ -4,6 +4,14 @@
 
 </div>
 
+<div align="center">
+
+<img src="./contrib-heatmap.gif" width="100%"/>
+
+</div>
+
+---
+
 <table>
 <tr>
 <td width="50%" align="center">
@@ -175,3 +183,4 @@ EXPERIENCE
 <strong>BUILD • BREAK • DEBUG • SHIP • REPEAT</strong>
 
 </div>
+
