@@ -1,130 +1,120 @@
-<h1 align="center">Hi 👋, I'm Sairaja Krishna</h1>
+﻿<div align="center">
 
-<h3 align="center">
-Full Stack • AWS Cloud Practitioner • B.Tech CSE (AI/ML) @ KL University
-</h3>
+```text
+sairaja@github:~$ whoami
 
-<p align="center">
-Building scalable web applications with Java, Spring Boot, React, MySQL, and AWS.
-</p>
+<img src="./avi-ascii.svg" width="49%"/><img src="./stats.svg" width="49%"/>
+</div>
 
----
+<div align="center">
 
-## 🚀 About Me
+<img src="./contrib-heatmap.svg" width="100%"/>
 
-- 🎓 B.Tech CSE (AI/ML), KL University
-- ☁️ AWS Certified Cloud Practitioner
-- 🏆 Certificate of Excellence – Scaler School of Technology (YIIC 2.0)
-- 💻 Full Stack Developer focused on React + Spring Boot
-- 🧩 Solved 250+ Coding Problems on CodeChef
-- 🌱 Currently learning Advanced Spring Boot, MongoDB, and Cloud Architecture
+</div>
 
----
+<div align="center">
 
-## 🔭 Currently Working On
+<img src="./tech-stack.svg" width="100%"/>
 
-- Smart City & Urban-Tech Solutions
-- Full Stack Web Applications
-- Cloud Deployment Workflows
-- Backend System Design
+</div>
 
----
+<div align="center">
 
-## 💡 Featured Projects
+<img src="./projects.svg" width="100%"/>
 
-### 🏙️ Urban-Tech Dashboard
-A smart city dashboard built using React, Spring Boot, and MySQL for monitoring city services and utilities.
+</div>
 
-### 🤝 Citizen–Politician Interaction Platform
-A full-stack civic engagement platform enabling issue reporting and transparent communication.
+<div align="center">
 
-### 🤖 IR Rover Bot Navigator
-Arduino-powered autonomous obstacle-avoiding rover using sensor-driven navigation.
+<img src="./system-info.svg" width="100%"/>
 
----
+</div>
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,c,python" />
-</p>
+<img src="./fun-fact.svg" width="100%"/>
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+</div>
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=spring" />
-</p>
+<div align="center">
 
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+<img src="./connect.svg" width="100%"/>
 
-### Cloud & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,postman,figma" />
-</p>
+</div>
 
-### IoT
-<p>
-<img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SAIRAJA-2K7&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SAIRAJA-2K7&layout=compact&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAIRAJA-2K7&layout=compact&theme=transparent" />
-</p>
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAIRAJA-2K7/SAIRAJA-2K7/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAIRAJA-2K7/SAIRAJA-2K7/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SAIRAJA-2K7/SAIRAJA-2K7/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+$ ./about-me
+<details>
+<summary><strong>▶ OPEN PROFILE</strong></summary>
 
 
-## 🌐 Connect With Me
+NAME        → SAIRAJA KRISHNA
+USERNAME    → SAIRAJA-2K7
+ROLE        → Student Developer
+SPECIALTY   → AI / ML + Full Stack + Cloud
+FOCUS       → Building useful systems with polished interfaces
 
-<p align="left">
-<a href="https://github.com/SAIRAJA-2K7">
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
-</a>
+I build full-stack applications, cloud-powered systems, analytics dashboards and AI/ML projects.
+I enjoy taking complicated technical ideas and turning them into clean, interactive engineering experiences.
+</details>
 
-<a href="https://linkedin.com/in/sairajakrishna">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>
-</p>
+$ ./certifications
+<details>
+<summary><strong>▶ VIEW CERTIFICATIONS</strong></summary>
 
-📧 Email: 2400031695cse2@gmail.com
 
-🌍 Portfolio: https://sairajakrishna.netlify.app/
+AWS Certified Cloud Practitioner
 
-🏅 CodeChef: https://www.codechef.com/users/kl2400031695
+Cambridge Linguaskill
+CEFR B2
 
-📄 Resume: https://drive.google.com/file/d/1lxPXZS8907YchuIAOTUn0nKGe86306Qg/view
+Python Intermediate
 
----
+Certificate of Excellence
+Scaler School of Technology — YIIC
 
-## ⚡ Fun Fact
+</details>
 
-My projects span three different worlds—IoT hardware, full-stack web development, and AI/ML—which means I enjoy building both software and the systems that power it.
+$ ./currently-learning
+<details>
+<summary><strong>▶ LEARNING QUEUE</strong></summary>
+
+
+[■■■■■■■■■■■■■■■■░░] Advanced DSA
+[■■■■■■■■■■■■■■░░░░] Machine Learning
+[■■■■■■■■■■■■■■■░░░] Cloud Architecture
+[■■■■■■■■■■■■■■░░░░] System Design
+[■■■■■■■■■■■■■■■░░░] Advanced React
+
+</details>
+
+$ ./engineering-mode
+<details>
+<summary><strong>▶ INITIALIZE ENGINEERING MODE</strong></summary>
+
+
+DESIGN
+├── minimal
+├── cinematic
+├── responsive
+└── data-driven
+
+ENGINEERING
+├── scalable
+├── maintainable
+├── observable
+└── API-first
+
+EXPERIENCE
+├── motion
+├── interaction
+├── visual feedback
+└── performance
+
+</details>
+
+<div align="center">
+
+sairaja@github:~$ echo "building something better..."
+
+BUILD • BREAK • DEBUG • SHIP • REPEAT
+</div>
