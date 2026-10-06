@@ -1,10 +1,25 @@
 ﻿<div align="center">
 
-```text
-sairaja@github:~$ whoami
+<code>sairaja@github:~$ whoami</code>
 
-<img src="./avi-ascii.svg" width="49%"/><img src="./stats.svg" width="49%"/>
 </div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="./avi-ascii.svg" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="./stats.svg" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
@@ -12,11 +27,15 @@ sairaja@github:~$ whoami
 
 </div>
 
+---
+
 <div align="center">
 
 <img src="./tech-stack.svg" width="100%"/>
 
 </div>
+
+---
 
 <div align="center">
 
@@ -24,17 +43,24 @@ sairaja@github:~$ whoami
 
 </div>
 
-<div align="center">
+---
+
+<table>
+<tr>
+<td width="50%" align="center">
 
 <img src="./system-info.svg" width="100%"/>
 
-</div>
-
-<div align="center">
+</td>
+<td width="50%" align="center">
 
 <img src="./fun-fact.svg" width="100%"/>
 
-</div>
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
@@ -42,26 +68,39 @@ sairaja@github:~$ whoami
 
 </div>
 
-$ ./about-me
+---
+
+## <code>$ ./about-me</code>
+
 <details>
 <summary><strong>▶ OPEN PROFILE</strong></summary>
 
+<br>
 
+<pre>
 NAME        → SAIRAJA KRISHNA
 USERNAME    → SAIRAJA-2K7
 ROLE        → Student Developer
 SPECIALTY   → AI / ML + Full Stack + Cloud
 FOCUS       → Building useful systems with polished interfaces
+</pre>
 
 I build full-stack applications, cloud-powered systems, analytics dashboards and AI/ML projects.
+
 I enjoy taking complicated technical ideas and turning them into clean, interactive engineering experiences.
+
 </details>
 
-$ ./certifications
+---
+
+## <code>$ ./certifications</code>
+
 <details>
 <summary><strong>▶ VIEW CERTIFICATIONS</strong></summary>
 
+<br>
 
+<pre>
 AWS Certified Cloud Practitioner
 
 Cambridge Linguaskill
@@ -71,27 +110,39 @@ Python Intermediate
 
 Certificate of Excellence
 Scaler School of Technology — YIIC
+</pre>
 
 </details>
 
-$ ./currently-learning
+---
+
+## <code>$ ./currently-learning</code>
+
 <details>
 <summary><strong>▶ LEARNING QUEUE</strong></summary>
 
+<br>
 
+<pre>
 [■■■■■■■■■■■■■■■■░░] Advanced DSA
 [■■■■■■■■■■■■■■░░░░] Machine Learning
 [■■■■■■■■■■■■■■■░░░] Cloud Architecture
 [■■■■■■■■■■■■■■░░░░] System Design
 [■■■■■■■■■■■■■■■░░░] Advanced React
+</pre>
 
 </details>
 
-$ ./engineering-mode
+---
+
+## <code>$ ./engineering-mode</code>
+
 <details>
 <summary><strong>▶ INITIALIZE ENGINEERING MODE</strong></summary>
 
+<br>
 
+<pre>
 DESIGN
 ├── minimal
 ├── cinematic
@@ -109,12 +160,18 @@ EXPERIENCE
 ├── interaction
 ├── visual feedback
 └── performance
+</pre>
 
 </details>
 
+---
+
 <div align="center">
 
-sairaja@github:~$ echo "building something better..."
+<code>sairaja@github:~$ echo "building something better..."</code>
 
-BUILD • BREAK • DEBUG • SHIP • REPEAT
+<br><br>
+
+<strong>BUILD • BREAK • DEBUG • SHIP • REPEAT</strong>
+
 </div>
