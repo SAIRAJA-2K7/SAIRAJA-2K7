@@ -1,6 +1,6 @@
-requests==2.32.3
-beautifulsoup4==4.12.3
-Pillow==12.1.1
-numpy==1.26.4
+# Only needed locally, when you change the photo (the daily workflow uses the Python standard library only)
+pillow
+numpy
 opencv-python
 rembg
+onnxruntime

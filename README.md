@@ -1,189 +1,36 @@
-﻿<div align="center">
-
-<code>sairaja@github:~$ whoami</code>
-
-</div>
-
 <div align="center">
 
-<img src="./contrib-ripple-slow.gif" width="100%"/>
+<img src="./hero.svg" width="860" alt="Sairaja Krishna Meka — full-stack developer" />
 
-</div>
+<br>
 
----
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
+
+<br>
 
 <table>
 <tr>
-<td width="50%" align="center">
-
-<img src="./avi-ascii.svg" width="100%"/>
-
-</td>
-<td width="50%" align="center">
-
-<img src="./stats.svg" width="100%"/>
-
-</td>
+<td valign="top"><img src="./ascii-portrait.svg" width="330" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="480" alt="neofetch info card" /></td>
 </tr>
 </table>
 
----
-
-<div align="center">
-
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./tech-stack.svg" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./projects.svg" width="100%"/>
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="./system-info.svg" width="100%"/>
-
-</td>
-<td width="50%" align="center">
-
-<img src="./fun-fact.svg" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="./connect.svg" width="100%"/>
-
-</div>
-
----
-
-## <code>$ ./about-me</code>
-
-<details>
-<summary><strong>▶ OPEN PROFILE</strong></summary>
+<img src="./tech-stack.svg" width="860" alt="Tech stack" />
 
 <br>
 
-<pre>
-NAME        → SAIRAJA KRISHNA
-USERNAME    → SAIRAJA-2K7
-ROLE        → Student Developer
-SPECIALTY   → AI / ML + Full Stack + Cloud
-FOCUS       → Building useful systems with polished interfaces
-</pre>
-
-I build full-stack applications, cloud-powered systems, analytics dashboards and AI/ML projects.
-
-I enjoy taking complicated technical ideas and turning them into clean, interactive engineering experiences.
-
-</details>
-
----
-
-## <code>$ ./certifications</code>
-
-<details>
-<summary><strong>▶ VIEW CERTIFICATIONS</strong></summary>
+<img src="./projects.svg" width="860" alt="Projects" />
 
 <br>
 
-<pre>
-AWS Certified Cloud Practitioner
-
-Cambridge Linguaskill
-CEFR B2
-
-Python Intermediate
-
-Certificate of Excellence
-Scaler School of Technology — YIIC
-</pre>
-
-</details>
-
----
-
-## <code>$ ./currently-learning</code>
-
-<details>
-<summary><strong>▶ LEARNING QUEUE</strong></summary>
+<img src="./highlights.svg" width="860" alt="Achievements" />
 
 <br>
 
-<pre>
-[■■■■■■■■■■■■■■■■░░] Advanced DSA
-[■■■■■■■■■■■■■■░░░░] Machine Learning
-[■■■■■■■■■■■■■■■░░░] Cloud Architecture
-[■■■■■■■■■■■■■■░░░░] System Design
-[■■■■■■■■■■■■■■■░░░] Advanced React
-</pre>
-
-</details>
-
----
-
-## <code>$ ./engineering-mode</code>
-
-<details>
-<summary><strong>▶ INITIALIZE ENGINEERING MODE</strong></summary>
+<img src="./footer.svg" width="860" alt="Thanks for visiting" />
 
 <br>
 
-<pre>
-DESIGN
-├── minimal
-├── cinematic
-├── responsive
-└── data-driven
-
-ENGINEERING
-├── scalable
-├── maintainable
-├── observable
-└── API-first
-
-EXPERIENCE
-├── motion
-├── interaction
-├── visual feedback
-└── performance
-</pre>
-
-</details>
-
----
-
-<div align="center">
-
-<code>sairaja@github:~$ echo "building something better..."</code>
-
-<br><br>
-
-<strong>BUILD • BREAK • DEBUG • SHIP • REPEAT</strong>
+<a href="https://www.linkedin.com/in/sairajakrishna/">LinkedIn</a> · <a href="https://github.com/SAIRAJA-2K7?tab=repositories">Repositories</a>
 
 </div>
-
-
-
-
-
