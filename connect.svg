@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="410" viewBox="0 0 840 410" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<style>
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes pulse{0%,100%{opacity:.65}50%{opacity:1}}
+.t{animation:in .6s ease-out both}
+.p{animation:pulse 2s ease-in-out infinite}
+</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#111722"/><stop offset="1" stop-color="#0d1117"/>
+</linearGradient></defs>
+<rect width="840" height="410" rx="12" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="839" height="409" rx="12" fill="none" stroke="#30363d"/>
+<line x1="0" y1="30" x2="840" y2="30" stroke="#30363d"/>
+<circle cx="20" cy="15" r="5" fill="#ff5f56"/><circle cx="36" cy="15" r="5" fill="#ffbd2e"/><circle cx="52" cy="15" r="5" fill="#27c93f"/>
+<text x="420" y="19" text-anchor="middle" fill="#7d8590" font-size="12">sairaja@github: ~$ ./connect.sh</text>
+<g class="t"><text x="28" y="68" fill="#e6edf3" font-size="21" font-weight="700">$ ./connect</text><a href="https://github.com/SAIRAJA-2K7"><rect x="24" y="90" width="792" height="55" rx="9" fill="#161b22" stroke="#30363d"/><text x="48" y="125" fill="#39d353" font-size="17">→ GitHub</text><text x="210" y="125" fill="#7d8590" font-size="13">https://github.com/SAIRAJA-2K7</text></a><a href="https://www.linkedin.com/in/sairajakrishna/"><rect x="24" y="158" width="792" height="55" rx="9" fill="#161b22" stroke="#30363d"/><text x="48" y="193" fill="#79c0ff" font-size="17">→ LinkedIn</text><text x="210" y="193" fill="#7d8590" font-size="13">https://www.linkedin.com/in/sairajakrishna/</text></a><a href="https://sairajakrishna.netlify.app/"><rect x="24" y="226" width="792" height="55" rx="9" fill="#161b22" stroke="#30363d"/><text x="48" y="261" fill="#bc8cff" font-size="17">→ Portfolio</text><text x="210" y="261" fill="#7d8590" font-size="13">https://sairajakrishna.netlify.app/</text></a><a href="mailto:2400031695cse2@gmail.com"><rect x="24" y="294" width="792" height="55" rx="9" fill="#161b22" stroke="#30363d"/><text x="48" y="329" fill="#e6edf3" font-size="17">→ Email</text><text x="210" y="329" fill="#7d8590" font-size="13">mailto:2400031695cse2@gmail.com</text></a></g>
+</svg>

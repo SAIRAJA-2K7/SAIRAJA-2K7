@@ -1,0 +1,38 @@
+{
+  "username": "SAIRAJA-2K7",
+  "name": "SAIRAJA KRISHNA",
+  "bio": "",
+  "public_repos": 42,
+  "followers": 1,
+  "following": 1,
+  "stars": 5,
+  "forks": 0,
+  "pull_requests": 0,
+  "issues": 0,
+  "top_languages": [
+    {
+      "name": "JavaScript",
+      "bytes": 330819
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 199333
+    },
+    {
+      "name": "Java",
+      "bytes": 61781
+    },
+    {
+      "name": "CSS",
+      "bytes": 41320
+    },
+    {
+      "name": "HTML",
+      "bytes": 10552
+    },
+    {
+      "name": "Shell",
+      "bytes": 632
+    }
+  ]
+}
